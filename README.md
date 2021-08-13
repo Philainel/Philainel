@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @McMatveyI
-- 👀 I’m interested in web & game developmant
+- 👀 I’m interested in web & game development
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on 3D design
 - 📫 How to reach me toropovmat@gmail.com
