@@ -2,9 +2,7 @@
 - 👀 I’m interested in web & game development
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on 3D design
-- 📫 How to reach me toropovmat@gmail.com
-
-<!---
-McMatveyI/McMatveyI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: 
+  - email: toropovmat@gmail.com
+  - discord: https://discord.com/users/537689199739142144
+  - telegram: https://t.me/mcmatveyi
