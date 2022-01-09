@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @McMatveyI
+- 👋 Hi, I’m @Philainel
 - 👀 I’m interested in web & game development
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on 3D design
